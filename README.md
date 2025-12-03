@@ -5,11 +5,9 @@ Este repositório contém o projeto desenvolvido para automatizar a segmentaçã
 A ferramenta permite o envio de imagens, processamento via modelo treinado e geração de mapas temáticos de forma simples e reprodutível.
 
 ## Demonstração
-A interface web pode ser acessada em:
-https://geo-segmentation-frontend-production.up.railway.app/
-
-Vídeo de demonstração: https://www.youtube.com/watch?v=-M_OH7bKuSc
-
+- Interface web: [acessar aplicação](https://geo-segmentation-frontend-production.up.railway.app)
+- Vídeo de demonstração: [vídeo](https://www.youtube.com/watch?v=-M_OH7bKuSc)
+  
 ## Principais Componentes
 - Modelo de segmentação baseado em DeepLabV3+ (PyTorch)
 - API de inferência desenvolvida em FastAPI
